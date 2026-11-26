@@ -2,7 +2,7 @@
 
 A complete delivery management system for single-restaurant WooCommerce stores.
 
-Independent GPL-licensed distribution maintained at [minhkhiem217/buy-control-routemile-woocommerce](https://github.com/minhkhiem217/buy-control-routemile-woocommerce). Install this distribution from its own source, not the upstream WordPress.org listing.
+Independent GPL-licensed distribution maintained at [minhkhiem712/buy-control-routemile-woocommerce-v2](https://github.com/minhkhiem712/buy-control-routemile-woocommerce-v2). Install this distribution from its own source, not the upstream WordPress.org listing.
 
 ![Version](https://img.shields.io/badge/Version-1.6.5-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-6.0%2B-blue)
@@ -106,7 +106,7 @@ Based on RouteMile for WooCommerce by MD MILLAT HOSEN ([upstream source](https:/
 Clone into an existing WordPress installation's plugins directory:
 
 ```bash
-git clone https://github.com/minhkhiem217/buy-control-routemile-woocommerce.git wp-content/plugins/buy-control-routemile-woocommerce
+git clone https://github.com/minhkhiem712/buy-control-routemile-woocommerce-v2.git wp-content/plugins/buy-control-routemile-woocommerce
 ```
 
 Alternatively, package the plugin files as a ZIP and upload through WordPress. Do not activate upstream and Buy Control together: internal identifiers are intentionally unchanged.
